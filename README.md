@@ -1,5 +1,5 @@
 # TronGame
-ELTE IK Bsc, Programtervező Informatikus, Programozási Technológia, 3. beadandó
+ELTE IK, Programtervező Informatikus, Programozási Technológia, 3. beadandó
 
 Feladat: \
 Készítsünk programot, amellyel a Tronból ismert fény-motor párbajt játszhatjuk felülnézetből. Két
